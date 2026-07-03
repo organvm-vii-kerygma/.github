@@ -69,7 +69,7 @@ The organvm system spans 81 repositories across 8 organizations, ~320K words of 
 
 **Dependency direction:** ORGAN-VII is a pure consumer. It amplifies what exists across all other organs but creates no upstream obligations. No back-edges — marketing follows creation, never the reverse.
 
-> **Read the public process:** [organvm-v-logos.github.io/public-process](https://organvm-v-logos.github.io/public-process/)
+> **Read the public process:** [organvm.github.io/public-process](https://organvm.github.io/public-process/)
 
 ---
 
@@ -86,7 +86,7 @@ The organvm system spans 81 repositories across 8 organizations, ~320K words of 
 
 **Explore the System**
 
-[Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [49 Essays](https://organvm-v-logos.github.io/public-process/) · [Knowledge Base](https://organvm-i-theoria.github.io/my-knowledge-base/) · [Consult](https://4444j99.github.io/portfolio/consult/)
+[Portfolio](https://organvm.github.io/portfolio/) · [System Directory](https://organvm.github.io/portfolio/directory/) · [65 Essays](https://organvm.github.io/public-process/) · [Knowledge Base](https://organvm.github.io/portfolio/projects/knowledge-base/) · [Consult](https://organvm.github.io/portfolio/consult/)
 
 </div>
 <!-- PORTFOLIO-HUB-END -->
